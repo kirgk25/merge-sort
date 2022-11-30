@@ -1,3 +1,3 @@
 # Merge sort 
 
-Example of __merge sort__ using __PHP__   
+__Merge sort__ using __PHP__   
